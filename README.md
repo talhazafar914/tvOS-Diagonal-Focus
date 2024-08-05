@@ -1,1 +1,2 @@
 # tvOS-Diagonal-Focus
+In tvOS, I was facing an issue with focus. My buttons were not receiving focus if they were not placed in parallel positions. I found that this issue can be resolved by using focus guides. Focus guides help manage the focus engine, allowing us to control the focus movement more precisely and ensure a seamless navigation experience for users. By incorporating focus guides, I was able to define custom focus behaviors and improve the overall usability of the application.
